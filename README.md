@@ -1,8 +1,8 @@
->#1. Project name: test  
+># 1. Project name: test  
 
 This is the test project
 
->#2. Install
+>## 2. Install
 
 OS X & 리눅스:
 
