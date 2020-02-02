@@ -24,6 +24,7 @@ OS X & 리눅스:
 https://github.com/yourname/github-link
 
 >이것은 인용이다.
+[바로가기](https://help.github.com/categories/writing-on-github/)
 
 7. Contribute
 (https://github.com/sadlion/test/fork)을 포크합니다.  
