@@ -12,7 +12,7 @@ OS X & 리눅스:
 >## 3. Example  
 스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다. 
 
-![screenshot_20171221-151714](https://github.com/sadlion/test/IMG_08151.JPG)
+![screenshot_20171221-151714](./IMG_08151.JPG)
 
 >## 4. Environment  
 모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.  
