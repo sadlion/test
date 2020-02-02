@@ -29,13 +29,14 @@ https://github.com/yourname/github-link
 (git commit -am 'Add some fooBar') 명령어로 커밋하세요.  
 (git push origin feature/fooBar) 명령어로 브랜치에 푸시하세요.   
 풀리퀘스트를 보내주세요.  
-'''
-  function () {
-    def aaaa
-    task xxxx {
-    }
-  }
-'''
+```c
+#include<stdio.h>
+int main(void)
+{
+printf("Hello Interface!\n");
+return 0;
+}
+```
 
 8. Credits  
 
